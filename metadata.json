@@ -2,7 +2,6 @@
   "name": "3D RoT",
   "symbol": "3DN",
   "description": "This is the 3D RoT NFT.",
-  "image": "https://raw.githubusercontent.com/wfp2002/nft3d/main/3dnft.png",
-  "animation_url": "https://raw.githubusercontent.com/wfp2002/nft3d/main/nft3d.mp4",
+  "image": "https://raw.githubusercontent.com/wfp2002/nft3d/main/nft3d.gif",
   "external_url": "https://cryptotitans.com"
 }
